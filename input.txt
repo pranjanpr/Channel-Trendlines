@@ -1,0 +1,5 @@
+C:/Users/LENOVO/Desktop/crypto/
+2
+25
+cryp1.csv
+cryp2.csv
