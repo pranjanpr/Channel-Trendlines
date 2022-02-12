@@ -31,3 +31,8 @@ The code aims to identify parallel support and resistance trendlines for channel
 	Please edit the path of the folder in "folder_str" by editing the "crypto.cpp" if it does not works.
 
 6. Once the "output.txt" files are populated, run "python plot_data.py". It will require just the count of test cases. It will plot the trendlines using plotly.
+
+## This is one of the Plots generated on ETH_USDT based on UNIX Timestamp where throshold of 25 candlesticks were chosen.
+![alt text](https://github.com/pranjanpr/Channel-Trendlines/blob/master/plots/ETH_trendline.png)
+
+![alt text](https://github.com/pranjanpr/Channel-Trendlines/blob/master/plots/Screenshot%202022-02-07%20122959.png)
